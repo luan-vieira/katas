@@ -1,0 +1,7 @@
+i,meuRetorno,i >= 1,i % 2 === 0
+20,20,true,true
+19,19,true,false
+18,18,true,true
+17,17,true,false
+16,16,true,true
+15,15,true,false

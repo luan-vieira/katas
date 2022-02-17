@@ -1,0 +1,7 @@
+i,meuRetorno,i >= 5,i % 5 === 0
+100,100,true,true
+99,99,true,false
+98,98,true,false
+97,"97 ",true,false
+96,96,true,false
+95,95,true,true
